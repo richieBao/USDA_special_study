@@ -1,0 +1,21 @@
+Numbers used in the tool,,,,,,,,,,
+,,,,,,,,,,
+Global climate regulation - Carbon sequestration in biomass,,,,,,,,,,
+,,,,,,,,,,
+Name location,Mixed forests1,,,,,,,,,
+,,,,,,,,,,
+Tree type,Soil texture,Soil moisture,Soil profile development,Score,Quantity wood private/minimum production time(m³/ha.year),Quantity wood public/maximum production time(m³/ha.year),Monetary value private/minimum production time(€/ha.year),Monetary value public/maximum production time(€/ha.year),Quantity C private/minimum production time(ton/ha.year),Quantity C public/maximum production time(ton/ha.year)
+Mixed forests,A - loam (85% loam),b - well drained soils (dry),a - soils with texture B horizon,8,4.55,2.35,122.85,83.425,1.45,0.75
+Mixed forests,L - sandloam (60% loam),b - well drained soils (dry),a - soils with texture B horizon,8,4.55,2.35,122.85,83.425,1.45,0.75
+Mixed forests,S - loamsand (20% loam),b - well drained soils (dry),a - soils with texture B horizon,8,4.55,2.35,122.85,83.425,1.45,0.75
+Mixed forests,A - loam (85% loam),b - well drained soils (dry),a - soils with texture B horizon,8,4.55,2.35,122.85,83.425,1.45,0.75
+Mixed forests,L - sandloam (60% loam),b - well drained soils (dry),a - soils with texture B horizon,8,4.55,2.35,122.85,83.425,1.45,0.75
+Mixed forests,S - loamsand (20% loam),b - well drained soils (dry),a - soils with texture B horizon,8,4.55,2.35,122.85,83.425,1.45,0.75
+,,,,,,,,,,
+Carbon,Low,100,High,366,Euro/tonne,,,,,
+Harvest factor public managed forest,70,%,,,,,,,,
+Harvest factor private managed forest,60,%,,,,,,,,
+,,,,,,,,,,
+Formulas,Example in manual,,,,,,,,,
+,"When clicking the link above does not work, please copy the following URL to your browser.",,,,,,,,,
+,http://download/manual/manual_en.html#csequestrationbiomass_ex,,,,,,,,,

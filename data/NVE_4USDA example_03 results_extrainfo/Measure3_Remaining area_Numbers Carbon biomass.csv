@@ -1,0 +1,39 @@
+Numbers used in the tool,,,,,,,,,,
+,,,,,,,,,,
+Global climate regulation - Carbon sequestration in biomass,,,,,,,,,,
+,,,,,,,,,,
+Name location,Remaining area,,,,,,,,,
+,,,,,,,,,,
+Tree type,Soil texture,Soil moisture,Soil profile development,Score,Quantity wood private/minimum production time(m³/ha.year),Quantity wood public/maximum production time(m³/ha.year),Monetary value private/minimum production time(€/ha.year),Monetary value public/maximum production time(€/ha.year),Quantity C private/minimum production time(ton/ha.year),Quantity C public/maximum production time(ton/ha.year)
+Mixed forests,A - loam (85% loam),b - well drained soils (dry),B - soil structure a + b,8,4.55,2.35,122.85,83.425,1.45,0.75
+Poplar-species,A - loam (85% loam),b - well drained soils (dry),B - soil structure a + b,10,10.9,5.8,141.7,139.2,1.6,1
+Other deciduous or mix,A - loam (85% loam),b - well drained soils (dry),B - soil structure a + b,8,2.5,1.6,100,64,0.8,0.5
+"Shrubs (gorse, buckthorn, furze, ...)",A - loam (85% loam),b - well drained soils (dry),B - soil structure a + b,8,4.24,2.9,169.6,139.2,0.8,0.5
+Mixed forests,L - sandloam (60% loam),b - well drained soils (dry),B - soil structure a + b,8,4.55,2.35,122.85,83.425,1.45,0.75
+Poplar-species,L - sandloam (60% loam),b - well drained soils (dry),B - soil structure a + b,10,10.9,5.8,141.7,139.2,1.6,1
+Other deciduous or mix,L - sandloam (60% loam),b - well drained soils (dry),B - soil structure a + b,8,2.5,1.6,100,64,0.8,0.5
+"Shrubs (gorse, buckthorn, furze, ...)",L - sandloam (60% loam),b - well drained soils (dry),B - soil structure a + b,8,4.24,2.9,169.6,139.2,0.8,0.5
+Mixed forests,S - loamsand (20% loam),b - well drained soils (dry),B - soil structure a + b,2,2.7,1.5,41.85,26.25,0.85,0.45
+Poplar-species,S - loamsand (20% loam),b - well drained soils (dry),B - soil structure a + b,2,4.9,2.8,63.7,36.4,0.9,0.6
+Other deciduous or mix,S - loamsand (20% loam),b - well drained soils (dry),B - soil structure a + b,2,1.4,1,25.2,21,0.4,0.3
+"Shrubs (gorse, buckthorn, furze, ...)",S - loamsand (20% loam),b - well drained soils (dry),B - soil structure a + b,4,2.46,1.8,44.28,86.4,0.4,0.3
+Mixed forests,A - loam (85% loam),b - well drained soils (dry),B - soil structure a + b,8,4.55,2.35,122.85,83.425,1.45,0.75
+Poplar-species,A - loam (85% loam),b - well drained soils (dry),B - soil structure a + b,10,10.9,5.8,141.7,139.2,1.6,1
+Other deciduous or mix,A - loam (85% loam),b - well drained soils (dry),B - soil structure a + b,8,2.5,1.6,100,64,0.8,0.5
+"Shrubs (gorse, buckthorn, furze, ...)",A - loam (85% loam),b - well drained soils (dry),B - soil structure a + b,8,4.24,2.9,169.6,139.2,0.8,0.5
+Mixed forests,L - sandloam (60% loam),b - well drained soils (dry),B - soil structure a + b,8,4.55,2.35,122.85,83.425,1.45,0.75
+Poplar-species,L - sandloam (60% loam),b - well drained soils (dry),B - soil structure a + b,10,10.9,5.8,141.7,139.2,1.6,1
+Other deciduous or mix,L - sandloam (60% loam),b - well drained soils (dry),B - soil structure a + b,8,2.5,1.6,100,64,0.8,0.5
+"Shrubs (gorse, buckthorn, furze, ...)",L - sandloam (60% loam),b - well drained soils (dry),B - soil structure a + b,8,4.24,2.9,169.6,139.2,0.8,0.5
+Mixed forests,S - loamsand (20% loam),b - well drained soils (dry),B - soil structure a + b,2,2.7,1.5,41.85,26.25,0.85,0.45
+Poplar-species,S - loamsand (20% loam),b - well drained soils (dry),B - soil structure a + b,2,4.9,2.8,63.7,36.4,0.9,0.6
+Other deciduous or mix,S - loamsand (20% loam),b - well drained soils (dry),B - soil structure a + b,2,1.4,1,25.2,21,0.4,0.3
+"Shrubs (gorse, buckthorn, furze, ...)",S - loamsand (20% loam),b - well drained soils (dry),B - soil structure a + b,4,2.46,1.8,44.28,86.4,0.4,0.3
+,,,,,,,,,,
+Carbon,Low,100,High,366,Euro/tonne,,,,,
+Harvest factor public managed forest,70,%,,,,,,,,
+Harvest factor private managed forest,60,%,,,,,,,,
+,,,,,,,,,,
+Formulas,Example in manual,,,,,,,,,
+,"When clicking the link above does not work, please copy the following URL to your browser.",,,,,,,,,
+,http://download/manual/manual_en.html#csequestrationbiomass_ex,,,,,,,,,
