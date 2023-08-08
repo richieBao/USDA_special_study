@@ -1,0 +1,693 @@
+<VRTDataset rasterXSize="113056" rasterYSize="140841">
+  <SRS dataAxisToSRSAxisMapping="1,2">PROJCS["NAD83 / UTM zone 16N",GEOGCS["NAD83",DATUM["North_American_Datum_1983",SPHEROID["GRS 1980",6378137,298.257222101,AUTHORITY["EPSG","7019"]],AUTHORITY["EPSG","6269"]],PRIMEM["Greenwich",0,AUTHORITY["EPSG","8901"]],UNIT["degree",0.0174532925199433,AUTHORITY["EPSG","9122"]],AUTHORITY["EPSG","4269"]],PROJECTION["Transverse_Mercator"],PARAMETER["latitude_of_origin",0],PARAMETER["central_meridian",-87],PARAMETER["scale_factor",0.9996],PARAMETER["false_easting",500000],PARAMETER["false_northing",0],UNIT["metre",1,AUTHORITY["EPSG","9001"]],AXIS["Easting",EAST],AXIS["Northing",NORTH],AUTHORITY["EPSG","26916"]]</SRS>
+  <GeoTransform>  3.9093720000000001e+05,  6.0000000000000009e-01,  0.0000000000000000e+00,  4.6717055999999996e+06,  0.0000000000000000e+00, -6.0000000000000142e-01</GeoTransform>
+  <VRTRasterBand dataType="Byte" band="1">
+    <ColorInterp>Gray</ColorInterp>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">D:\datasets\naip_seg_int8\seg_m_4108701_ne_16_060_20210908.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="9683" RasterYSize="12564" DataType="Byte" BlockXSize="9683" BlockYSize="1" />
+      <SrcRect xOff="0" yOff="0" xSize="9683" ySize="12564" />
+      <DstRect xOff="51813" yOff="35342" xSize="9683" ySize="12564" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">D:\datasets\naip_seg_int8\seg_m_4108701_nw_16_060_20210908.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="9830" RasterYSize="12571" DataType="Byte" BlockXSize="9830" BlockYSize="1" />
+      <SrcRect xOff="0" yOff="0" xSize="9830" ySize="12571" />
+      <DstRect xOff="43108" yOff="35244" xSize="9830" ySize="12571" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">D:\datasets\naip_seg_int8\seg_m_4108701_se_16_060_20210908.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="9694" RasterYSize="12749" DataType="Byte" BlockXSize="9694" BlockYSize="1" />
+      <SrcRect xOff="0" yOff="0" xSize="9694" ySize="12749" />
+      <DstRect xOff="51685" yOff="46815" xSize="9694" ySize="12749" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">D:\datasets\naip_seg_int8\seg_m_4108702_ne_16_060_20210908.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="9667" RasterYSize="12551" DataType="Byte" BlockXSize="9667" BlockYSize="1" />
+      <SrcRect xOff="0" yOff="0" xSize="9667" ySize="12551" />
+      <DstRect xOff="69083" yOff="35518" xSize="9667" ySize="12551" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">D:\datasets\naip_seg_int8\seg_m_4108702_nw_16_060_20210908.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="9813" RasterYSize="12558" DataType="Byte" BlockXSize="9813" BlockYSize="1" />
+      <SrcRect xOff="0" yOff="0" xSize="9813" ySize="12558" />
+      <DstRect xOff="60379" yOff="35433" xSize="9813" ySize="12558" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">D:\datasets\naip_seg_int8\seg_m_4108702_se_16_060_20210908.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="9677" RasterYSize="12736" DataType="Byte" BlockXSize="9677" BlockYSize="1" />
+      <SrcRect xOff="0" yOff="0" xSize="9677" ySize="12736" />
+      <DstRect xOff="68973" yOff="46991" xSize="9677" ySize="12736" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">D:\datasets\naip_seg_int8\seg_m_4108702_sw_16_060_20210908.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="9823" RasterYSize="12743" DataType="Byte" BlockXSize="9823" BlockYSize="1" />
+      <SrcRect xOff="0" yOff="0" xSize="9823" ySize="12743" />
+      <DstRect xOff="60260" yOff="46906" xSize="9823" ySize="12743" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">D:\datasets\naip_seg_int8\seg_m_4108703_ne_16_060_20210908.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="9650" RasterYSize="12539" DataType="Byte" BlockXSize="9650" BlockYSize="1" />
+      <SrcRect xOff="0" yOff="0" xSize="9650" ySize="12539" />
+      <DstRect xOff="86354" yOff="35669" xSize="9650" ySize="12539" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">D:\datasets\naip_seg_int8\seg_m_4108703_nw_16_060_20210908.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="9796" RasterYSize="12546" DataType="Byte" BlockXSize="9796" BlockYSize="1" />
+      <SrcRect xOff="0" yOff="0" xSize="9796" ySize="12546" />
+      <DstRect xOff="77650" yOff="35596" xSize="9796" ySize="12546" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">D:\datasets\naip_seg_int8\seg_m_4108703_se_16_060_20210908.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="9659" RasterYSize="12724" DataType="Byte" BlockXSize="9659" BlockYSize="1" />
+      <SrcRect xOff="0" yOff="0" xSize="9659" ySize="12724" />
+      <DstRect xOff="86261" yOff="47142" xSize="9659" ySize="12724" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">D:\datasets\naip_seg_int8\seg_m_4108703_sw_16_060_20210908.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="9806" RasterYSize="12731" DataType="Byte" BlockXSize="9806" BlockYSize="1" />
+      <SrcRect xOff="0" yOff="0" xSize="9806" ySize="12731" />
+      <DstRect xOff="77548" yOff="47069" xSize="9806" ySize="12731" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">D:\datasets\naip_seg_int8\seg_m_4108704_sw_16_060_20210908.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="9789" RasterYSize="12718" DataType="Byte" BlockXSize="9789" BlockYSize="1" />
+      <SrcRect xOff="0" yOff="0" xSize="9789" ySize="12718" />
+      <DstRect xOff="94835" yOff="47208" xSize="9789" ySize="12718" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">D:\datasets\naip_seg_int8\seg_m_4108709_ne_16_060_20210908.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="9700" RasterYSize="12563" DataType="Byte" BlockXSize="9700" BlockYSize="1" />
+      <SrcRect xOff="0" yOff="0" xSize="9700" ySize="12563" />
+      <DstRect xOff="51560" yOff="58473" xSize="9700" ySize="12563" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">D:\datasets\naip_seg_int8\seg_m_4108709_se_16_060_20210908.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="9710" RasterYSize="12748" DataType="Byte" BlockXSize="9710" BlockYSize="1" />
+      <SrcRect xOff="0" yOff="0" xSize="9710" ySize="12748" />
+      <DstRect xOff="51433" yOff="69946" xSize="9710" ySize="12748" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">D:\datasets\naip_seg_int8\seg_m_4108710_ne_16_060_20210908.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="9684" RasterYSize="12551" DataType="Byte" BlockXSize="9684" BlockYSize="1" />
+      <SrcRect xOff="0" yOff="0" xSize="9684" ySize="12551" />
+      <DstRect xOff="68864" yOff="58649" xSize="9684" ySize="12551" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">D:\datasets\naip_seg_int8\seg_m_4108710_nw_16_060_20210908.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="9830" RasterYSize="12558" DataType="Byte" BlockXSize="9830" BlockYSize="1" />
+      <SrcRect xOff="0" yOff="0" xSize="9830" ySize="12558" />
+      <DstRect xOff="60143" yOff="58564" xSize="9830" ySize="12558" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">D:\datasets\naip_seg_int8\seg_m_4108710_se_16_060_20210908.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="9693" RasterYSize="12736" DataType="Byte" BlockXSize="9693" BlockYSize="1" />
+      <SrcRect xOff="0" yOff="0" xSize="9693" ySize="12736" />
+      <DstRect xOff="68754" yOff="70122" xSize="9693" ySize="12736" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">D:\datasets\naip_seg_int8\seg_m_4108710_sw_16_060_20210908.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="9840" RasterYSize="12744" DataType="Byte" BlockXSize="9840" BlockYSize="1" />
+      <SrcRect xOff="0" yOff="0" xSize="9840" ySize="12744" />
+      <DstRect xOff="60024" yOff="70036" xSize="9840" ySize="12744" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">D:\datasets\naip_seg_int8\seg_m_4108711_ne_16_060_20210908.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="9666" RasterYSize="12539" DataType="Byte" BlockXSize="9666" BlockYSize="1" />
+      <SrcRect xOff="0" yOff="0" xSize="9666" ySize="12539" />
+      <DstRect xOff="86169" yOff="58800" xSize="9666" ySize="12539" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">D:\datasets\naip_seg_int8\seg_m_4108711_nw_16_060_20210908.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="9814" RasterYSize="12546" DataType="Byte" BlockXSize="9814" BlockYSize="1" />
+      <SrcRect xOff="0" yOff="0" xSize="9814" ySize="12546" />
+      <DstRect xOff="77447" yOff="58727" xSize="9814" ySize="12546" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">D:\datasets\naip_seg_int8\seg_m_4108711_se_16_060_20210908.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="9676" RasterYSize="12723" DataType="Byte" BlockXSize="9676" BlockYSize="1" />
+      <SrcRect xOff="0" yOff="0" xSize="9676" ySize="12723" />
+      <DstRect xOff="86076" yOff="70273" xSize="9676" ySize="12723" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">D:\datasets\naip_seg_int8\seg_m_4108711_sw_16_060_20210908.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="9823" RasterYSize="12731" DataType="Byte" BlockXSize="9823" BlockYSize="1" />
+      <SrcRect xOff="0" yOff="0" xSize="9823" ySize="12731" />
+      <DstRect xOff="77346" yOff="70200" xSize="9823" ySize="12731" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">D:\datasets\naip_seg_int8\seg_m_4108712_nw_16_060_20210908.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="9796" RasterYSize="12533" DataType="Byte" BlockXSize="9796" BlockYSize="1" />
+      <SrcRect xOff="0" yOff="0" xSize="9796" ySize="12533" />
+      <DstRect xOff="94752" yOff="58866" xSize="9796" ySize="12533" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">D:\datasets\naip_seg_int8\seg_m_4108712_se_16_060_20210908.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="9659" RasterYSize="12710" DataType="Byte" BlockXSize="9659" BlockYSize="1" />
+      <SrcRect xOff="0" yOff="0" xSize="9659" ySize="12710" />
+      <DstRect xOff="103397" yOff="70399" xSize="9659" ySize="12710" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">D:\datasets\naip_seg_int8\seg_m_4108712_sw_16_060_20210908.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="9806" RasterYSize="12717" DataType="Byte" BlockXSize="9806" BlockYSize="1" />
+      <SrcRect xOff="0" yOff="0" xSize="9806" ySize="12717" />
+      <DstRect xOff="94667" yOff="70339" xSize="9806" ySize="12717" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">D:\datasets\naip_seg_int8\seg_m_4108717_ne_16_060_20210908.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="9716" RasterYSize="12563" DataType="Byte" BlockXSize="9716" BlockYSize="1" />
+      <SrcRect xOff="0" yOff="0" xSize="9716" ySize="12563" />
+      <DstRect xOff="51308" yOff="81604" xSize="9716" ySize="12563" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">D:\datasets\naip_seg_int8\seg_m_4108717_nw_16_060_20210908.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="9863" RasterYSize="12571" DataType="Byte" BlockXSize="9863" BlockYSize="1" />
+      <SrcRect xOff="0" yOff="0" xSize="9863" ySize="12571" />
+      <DstRect xOff="42570" yOff="81505" xSize="9863" ySize="12571" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">D:\datasets\naip_seg_int8\seg_m_4108717_se_16_060_20210908.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="9727" RasterYSize="12748" DataType="Byte" BlockXSize="9727" BlockYSize="1" />
+      <SrcRect xOff="0" yOff="0" xSize="9727" ySize="12748" />
+      <DstRect xOff="51181" yOff="93076" xSize="9727" ySize="12748" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">D:\datasets\naip_seg_int8\seg_m_4108717_sw_16_060_20210908.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="9873" RasterYSize="12756" DataType="Byte" BlockXSize="9873" BlockYSize="1" />
+      <SrcRect xOff="0" yOff="0" xSize="9873" ySize="12756" />
+      <DstRect xOff="42435" yOff="92978" xSize="9873" ySize="12756" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">D:\datasets\naip_seg_int8\seg_m_4108718_ne_16_060_20210908.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="9700" RasterYSize="12550" DataType="Byte" BlockXSize="9700" BlockYSize="1" />
+      <SrcRect xOff="0" yOff="0" xSize="9700" ySize="12550" />
+      <DstRect xOff="68646" yOff="81780" xSize="9700" ySize="12550" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">D:\datasets\naip_seg_int8\seg_m_4108718_nw_16_060_20210908.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="9846" RasterYSize="12558" DataType="Byte" BlockXSize="9846" BlockYSize="1" />
+      <SrcRect xOff="0" yOff="0" xSize="9846" ySize="12558" />
+      <DstRect xOff="59908" yOff="81694" xSize="9846" ySize="12558" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">D:\datasets\naip_seg_int8\seg_m_4108718_se_16_060_20210908.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="9710" RasterYSize="12736" DataType="Byte" BlockXSize="9710" BlockYSize="1" />
+      <SrcRect xOff="0" yOff="0" xSize="9710" ySize="12736" />
+      <DstRect xOff="68536" yOff="93252" xSize="9710" ySize="12736" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">D:\datasets\naip_seg_int8\seg_m_4108718_sw_16_060_20210908.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="9857" RasterYSize="12743" DataType="Byte" BlockXSize="9857" BlockYSize="1" />
+      <SrcRect xOff="0" yOff="0" xSize="9857" ySize="12743" />
+      <DstRect xOff="59789" yOff="93167" xSize="9857" ySize="12743" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">D:\datasets\naip_seg_int8\seg_m_4108719_ne_16_060_20210908.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="9683" RasterYSize="12538" DataType="Byte" BlockXSize="9683" BlockYSize="1" />
+      <SrcRect xOff="0" yOff="0" xSize="9683" ySize="12538" />
+      <DstRect xOff="85984" yOff="81931" xSize="9683" ySize="12538" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">D:\datasets\naip_seg_int8\seg_m_4108719_nw_16_060_20210908.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="9830" RasterYSize="12545" DataType="Byte" BlockXSize="9830" BlockYSize="1" />
+      <SrcRect xOff="0" yOff="0" xSize="9830" ySize="12545" />
+      <DstRect xOff="77246" yOff="81858" xSize="9830" ySize="12545" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">D:\datasets\naip_seg_int8\seg_m_4108719_se_16_060_20210908.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="9693" RasterYSize="12723" DataType="Byte" BlockXSize="9693" BlockYSize="1" />
+      <SrcRect xOff="0" yOff="0" xSize="9693" ySize="12723" />
+      <DstRect xOff="85891" yOff="93403" xSize="9693" ySize="12723" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">D:\datasets\naip_seg_int8\seg_m_4108719_sw_16_060_20210908.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="9840" RasterYSize="12731" DataType="Byte" BlockXSize="9840" BlockYSize="1" />
+      <SrcRect xOff="0" yOff="0" xSize="9840" ySize="12731" />
+      <DstRect xOff="77144" yOff="93330" xSize="9840" ySize="12731" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">D:\datasets\naip_seg_int8\seg_m_4108720_ne_16_060_20210908.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="9666" RasterYSize="12526" DataType="Byte" BlockXSize="9666" BlockYSize="1" />
+      <SrcRect xOff="0" yOff="0" xSize="9666" ySize="12526" />
+      <DstRect xOff="103322" yOff="82056" xSize="9666" ySize="12526" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">D:\datasets\naip_seg_int8\seg_m_4108720_nw_16_060_20210908.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="9813" RasterYSize="12533" DataType="Byte" BlockXSize="9813" BlockYSize="1" />
+      <SrcRect xOff="0" yOff="0" xSize="9813" ySize="12533" />
+      <DstRect xOff="94584" yOff="81996" xSize="9813" ySize="12533" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">D:\datasets\naip_seg_int8\seg_m_4108720_se_16_060_20210908.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="9675" RasterYSize="12710" DataType="Byte" BlockXSize="9675" BlockYSize="1" />
+      <SrcRect xOff="0" yOff="0" xSize="9675" ySize="12710" />
+      <DstRect xOff="103246" yOff="93529" xSize="9675" ySize="12710" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">D:\datasets\naip_seg_int8\seg_m_4108720_sw_16_060_20210908.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="9823" RasterYSize="12717" DataType="Byte" BlockXSize="9823" BlockYSize="1" />
+      <SrcRect xOff="0" yOff="0" xSize="9823" ySize="12717" />
+      <DstRect xOff="94499" yOff="93469" xSize="9823" ySize="12717" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">D:\datasets\naip_seg_int8\seg_m_4108725_ne_16_060_20210908.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="9732" RasterYSize="12563" DataType="Byte" BlockXSize="9732" BlockYSize="1" />
+      <SrcRect xOff="0" yOff="0" xSize="9732" ySize="12563" />
+      <DstRect xOff="51057" yOff="104734" xSize="9732" ySize="12563" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">D:\datasets\naip_seg_int8\seg_m_4108725_se_16_060_20210908.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="9742" RasterYSize="12748" DataType="Byte" BlockXSize="9742" BlockYSize="1" />
+      <SrcRect xOff="0" yOff="0" xSize="9742" ySize="12748" />
+      <DstRect xOff="50931" yOff="116206" xSize="9742" ySize="12748" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">D:\datasets\naip_seg_int8\seg_m_4108726_ne_16_060_20210908.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="9716" RasterYSize="12550" DataType="Byte" BlockXSize="9716" BlockYSize="1" />
+      <SrcRect xOff="0" yOff="0" xSize="9716" ySize="12550" />
+      <DstRect xOff="68428" yOff="104910" xSize="9716" ySize="12550" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">D:\datasets\naip_seg_int8\seg_m_4108726_nw_16_060_20210908.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="9863" RasterYSize="12558" DataType="Byte" BlockXSize="9863" BlockYSize="1" />
+      <SrcRect xOff="0" yOff="0" xSize="9863" ySize="12558" />
+      <DstRect xOff="59673" yOff="104824" xSize="9863" ySize="12558" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">D:\datasets\naip_seg_int8\seg_m_4108726_se_16_060_20210908.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="9726" RasterYSize="12735" DataType="Byte" BlockXSize="9726" BlockYSize="1" />
+      <SrcRect xOff="0" yOff="0" xSize="9726" ySize="12735" />
+      <DstRect xOff="68319" yOff="116382" xSize="9726" ySize="12735" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">D:\datasets\naip_seg_int8\seg_m_4108726_sw_16_060_20210908.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="9873" RasterYSize="12742" DataType="Byte" BlockXSize="9873" BlockYSize="1" />
+      <SrcRect xOff="0" yOff="0" xSize="9873" ySize="12742" />
+      <DstRect xOff="59555" yOff="116297" xSize="9873" ySize="12742" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">D:\datasets\naip_seg_int8\seg_m_4108727_ne_16_060_20210908.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="9699" RasterYSize="12537" DataType="Byte" BlockXSize="9699" BlockYSize="1" />
+      <SrcRect xOff="0" yOff="0" xSize="9699" ySize="12537" />
+      <DstRect xOff="85800" yOff="105061" xSize="9699" ySize="12537" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">D:\datasets\naip_seg_int8\seg_m_4108727_nw_16_060_20210908.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="9846" RasterYSize="12545" DataType="Byte" BlockXSize="9846" BlockYSize="1" />
+      <SrcRect xOff="0" yOff="0" xSize="9846" ySize="12545" />
+      <DstRect xOff="77045" yOff="104988" xSize="9846" ySize="12545" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">D:\datasets\naip_seg_int8\seg_m_4108727_se_16_060_20210908.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="9709" RasterYSize="12722" DataType="Byte" BlockXSize="9709" BlockYSize="1" />
+      <SrcRect xOff="0" yOff="0" xSize="9709" ySize="12722" />
+      <DstRect xOff="85707" yOff="116533" xSize="9709" ySize="12722" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">D:\datasets\naip_seg_int8\seg_m_4108727_sw_16_060_20210908.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="9857" RasterYSize="12730" DataType="Byte" BlockXSize="9857" BlockYSize="1" />
+      <SrcRect xOff="0" yOff="0" xSize="9857" ySize="12730" />
+      <DstRect xOff="76943" yOff="116460" xSize="9857" ySize="12730" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">D:\datasets\naip_seg_int8\seg_m_4108728_ne_16_060_20210908.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="9683" RasterYSize="12525" DataType="Byte" BlockXSize="9683" BlockYSize="1" />
+      <SrcRect xOff="0" yOff="0" xSize="9683" ySize="12525" />
+      <DstRect xOff="103171" yOff="105186" xSize="9683" ySize="12525" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">D:\datasets\naip_seg_int8\seg_m_4108728_nw_16_060_20210908.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="9830" RasterYSize="12532" DataType="Byte" BlockXSize="9830" BlockYSize="1" />
+      <SrcRect xOff="0" yOff="0" xSize="9830" ySize="12532" />
+      <DstRect xOff="94416" yOff="105126" xSize="9830" ySize="12532" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">D:\datasets\naip_seg_int8\seg_m_4108728_se_16_060_20210908.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="9692" RasterYSize="12711" DataType="Byte" BlockXSize="9692" BlockYSize="1" />
+      <SrcRect xOff="0" yOff="0" xSize="9692" ySize="12711" />
+      <DstRect xOff="103095" yOff="116658" xSize="9692" ySize="12711" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">D:\datasets\naip_seg_int8\seg_m_4108728_sw_16_060_20210908.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="9839" RasterYSize="12718" DataType="Byte" BlockXSize="9839" BlockYSize="1" />
+      <SrcRect xOff="0" yOff="0" xSize="9839" ySize="12718" />
+      <DstRect xOff="94332" yOff="116598" xSize="9839" ySize="12718" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">D:\datasets\naip_seg_int8\seg_m_4108734_ne_16_060_20210908.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="9732" RasterYSize="12550" DataType="Byte" BlockXSize="9732" BlockYSize="1" />
+      <SrcRect xOff="0" yOff="0" xSize="9732" ySize="12550" />
+      <DstRect xOff="68211" yOff="128039" xSize="9732" ySize="12550" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">D:\datasets\naip_seg_int8\seg_m_4108735_ne_16_060_20210908.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="9716" RasterYSize="12537" DataType="Byte" BlockXSize="9716" BlockYSize="1" />
+      <SrcRect xOff="0" yOff="0" xSize="9716" ySize="12537" />
+      <DstRect xOff="85616" yOff="128190" xSize="9716" ySize="12537" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">D:\datasets\naip_seg_int8\seg_m_4108735_nw_16_060_20210908.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="9863" RasterYSize="12545" DataType="Byte" BlockXSize="9863" BlockYSize="1" />
+      <SrcRect xOff="0" yOff="0" xSize="9863" ySize="12545" />
+      <DstRect xOff="76844" yOff="128117" xSize="9863" ySize="12545" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">D:\datasets\naip_seg_int8\seg_m_4108736_ne_16_060_20210908.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="9699" RasterYSize="12525" DataType="Byte" BlockXSize="9699" BlockYSize="1" />
+      <SrcRect xOff="0" yOff="0" xSize="9699" ySize="12525" />
+      <DstRect xOff="103021" yOff="128316" xSize="9699" ySize="12525" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">D:\datasets\naip_seg_int8\seg_m_4108736_nw_16_060_20210908.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="9846" RasterYSize="12533" DataType="Byte" BlockXSize="9846" BlockYSize="1" />
+      <SrcRect xOff="0" yOff="0" xSize="9846" ySize="12533" />
+      <DstRect xOff="94249" yOff="128255" xSize="9846" ySize="12533" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">D:\datasets\naip_seg_int8\seg_m_4108806_ne_16_060_20210928.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="9734" RasterYSize="12601" DataType="Byte" BlockXSize="9734" BlockYSize="1" />
+      <SrcRect xOff="0" yOff="0" xSize="9734" ySize="12601" />
+      <DstRect xOff="0" yOff="34662" xSize="9734" ySize="12601" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">D:\datasets\naip_seg_int8\seg_m_4108807_ne_16_060_20210928.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="9717" RasterYSize="12589" DataType="Byte" BlockXSize="9717" BlockYSize="1" />
+      <SrcRect xOff="0" yOff="0" xSize="9717" ySize="12589" />
+      <DstRect xOff="17271" yOff="34914" xSize="9717" ySize="12589" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">D:\datasets\naip_seg_int8\seg_m_4108807_nw_16_060_20210928.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="9863" RasterYSize="12597" DataType="Byte" BlockXSize="9863" BlockYSize="1" />
+      <SrcRect xOff="0" yOff="0" xSize="9863" ySize="12597" />
+      <DstRect xOff="8567" yOff="34790" xSize="9863" ySize="12597" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">D:\datasets\naip_seg_int8\seg_m_4108808_ne_16_060_20210908.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="9700" RasterYSize="12576" DataType="Byte" BlockXSize="9700" BlockYSize="1" />
+      <SrcRect xOff="0" yOff="0" xSize="9700" ySize="12576" />
+      <DstRect xOff="34542" yOff="35141" xSize="9700" ySize="12576" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">D:\datasets\naip_seg_int8\seg_m_4108808_nw_16_060_20210928.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="9847" RasterYSize="12585" DataType="Byte" BlockXSize="9847" BlockYSize="1" />
+      <SrcRect xOff="0" yOff="0" xSize="9847" ySize="12585" />
+      <DstRect xOff="25837" yOff="35029" xSize="9847" ySize="12585" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">D:\datasets\naip_seg_int8\seg_m_4108824_ne_16_060_20210908.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="9733" RasterYSize="12576" DataType="Byte" BlockXSize="9733" BlockYSize="1" />
+      <SrcRect xOff="0" yOff="0" xSize="9733" ySize="12576" />
+      <DstRect xOff="33970" yOff="81402" xSize="9733" ySize="12576" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">D:\datasets\naip_seg_int8\seg_m_4108824_se_16_060_20210908.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="9743" RasterYSize="12761" DataType="Byte" BlockXSize="9743" BlockYSize="1" />
+      <SrcRect xOff="0" yOff="0" xSize="9743" ySize="12761" />
+      <DstRect xOff="33827" yOff="92875" xSize="9743" ySize="12761" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">D:\datasets\naip_seg_int8\seg_m_4208749_se_16_060_20210905.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="9660" RasterYSize="12749" DataType="Byte" BlockXSize="9660" BlockYSize="1" />
+      <SrcRect xOff="0" yOff="0" xSize="9660" ySize="12749" />
+      <DstRect xOff="52192" yOff="552" xSize="9660" ySize="12749" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">D:\datasets\naip_seg_int8\seg_m_4208749_sw_16_060_20210905.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="9807" RasterYSize="12757" DataType="Byte" BlockXSize="9807" BlockYSize="1" />
+      <SrcRect xOff="0" yOff="0" xSize="9807" ySize="12757" />
+      <DstRect xOff="43513" yOff="453" xSize="9807" ySize="12757" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">D:\datasets\naip_seg_int8\seg_m_4208750_se_16_060_20210905.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="9644" RasterYSize="12737" DataType="Byte" BlockXSize="9644" BlockYSize="1" />
+      <SrcRect xOff="0" yOff="0" xSize="9644" ySize="12737" />
+      <DstRect xOff="69412" yOff="728" xSize="9644" ySize="12737" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">D:\datasets\naip_seg_int8\seg_m_4208750_sw_16_060_20210905.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="9790" RasterYSize="12745" DataType="Byte" BlockXSize="9790" BlockYSize="1" />
+      <SrcRect xOff="0" yOff="0" xSize="9790" ySize="12745" />
+      <DstRect xOff="60733" yOff="642" xSize="9790" ySize="12745" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">D:\datasets\naip_seg_int8\seg_m_4208751_sw_16_060_20210905.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="9773" RasterYSize="12732" DataType="Byte" BlockXSize="9773" BlockYSize="1" />
+      <SrcRect xOff="0" yOff="0" xSize="9773" ySize="12732" />
+      <DstRect xOff="77953" yOff="806" xSize="9773" ySize="12732" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">D:\datasets\naip_seg_int8\seg_m_4208757_ne_16_060_20210905.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="9667" RasterYSize="12564" DataType="Byte" BlockXSize="9667" BlockYSize="1" />
+      <SrcRect xOff="0" yOff="0" xSize="9667" ySize="12564" />
+      <DstRect xOff="52066" yOff="12210" xSize="9667" ySize="12564" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">D:\datasets\naip_seg_int8\seg_m_4208757_nw_16_060_20210905.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="9813" RasterYSize="12572" DataType="Byte" BlockXSize="9813" BlockYSize="1" />
+      <SrcRect xOff="0" yOff="0" xSize="9813" ySize="12572" />
+      <DstRect xOff="43379" yOff="12112" xSize="9813" ySize="12572" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">D:\datasets\naip_seg_int8\seg_m_4208757_se_16_060_20210908.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="9677" RasterYSize="12749" DataType="Byte" BlockXSize="9677" BlockYSize="1" />
+      <SrcRect xOff="0" yOff="0" xSize="9677" ySize="12749" />
+      <DstRect xOff="51938" yOff="23684" xSize="9677" ySize="12749" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">D:\datasets\naip_seg_int8\seg_m_4208757_sw_16_060_20210908.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="9824" RasterYSize="12757" DataType="Byte" BlockXSize="9824" BlockYSize="1" />
+      <SrcRect xOff="0" yOff="0" xSize="9824" ySize="12757" />
+      <DstRect xOff="43242" yOff="23585" xSize="9824" ySize="12757" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">D:\datasets\naip_seg_int8\seg_m_4208758_ne_16_060_20210905.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="9650" RasterYSize="12551" DataType="Byte" BlockXSize="9650" BlockYSize="1" />
+      <SrcRect xOff="0" yOff="0" xSize="9650" ySize="12551" />
+      <DstRect xOff="69303" yOff="12387" xSize="9650" ySize="12551" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">D:\datasets\naip_seg_int8\seg_m_4208758_nw_16_060_20210905.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="9797" RasterYSize="12559" DataType="Byte" BlockXSize="9797" BlockYSize="1" />
+      <SrcRect xOff="0" yOff="0" xSize="9797" ySize="12559" />
+      <DstRect xOff="60615" yOff="12301" xSize="9797" ySize="12559" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">D:\datasets\naip_seg_int8\seg_m_4208758_se_16_060_20210908.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="9660" RasterYSize="12736" DataType="Byte" BlockXSize="9660" BlockYSize="1" />
+      <SrcRect xOff="0" yOff="0" xSize="9660" ySize="12736" />
+      <DstRect xOff="69192" yOff="23860" xSize="9660" ySize="12736" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">D:\datasets\naip_seg_int8\seg_m_4208758_sw_16_060_20210908.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="9807" RasterYSize="12744" DataType="Byte" BlockXSize="9807" BlockYSize="1" />
+      <SrcRect xOff="0" yOff="0" xSize="9807" ySize="12744" />
+      <DstRect xOff="60496" yOff="23774" xSize="9807" ySize="12744" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">D:\datasets\naip_seg_int8\seg_m_4208759_ne_16_060_20210906.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="9633" RasterYSize="12539" DataType="Byte" BlockXSize="9633" BlockYSize="1" />
+      <SrcRect xOff="0" yOff="0" xSize="9633" ySize="12539" />
+      <DstRect xOff="86540" yOff="12538" xSize="9633" ySize="12539" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">D:\datasets\naip_seg_int8\seg_m_4208759_nw_16_060_20210905.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="9780" RasterYSize="12546" DataType="Byte" BlockXSize="9780" BlockYSize="1" />
+      <SrcRect xOff="0" yOff="0" xSize="9780" ySize="12546" />
+      <DstRect xOff="77852" yOff="12465" xSize="9780" ySize="12546" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">D:\datasets\naip_seg_int8\seg_m_4208759_se_16_060_20210908.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="9643" RasterYSize="12724" DataType="Byte" BlockXSize="9643" BlockYSize="1" />
+      <SrcRect xOff="0" yOff="0" xSize="9643" ySize="12724" />
+      <DstRect xOff="86446" yOff="24011" xSize="9643" ySize="12724" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">D:\datasets\naip_seg_int8\seg_m_4208759_sw_16_060_20210908.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="9790" RasterYSize="12731" DataType="Byte" BlockXSize="9790" BlockYSize="1" />
+      <SrcRect xOff="0" yOff="0" xSize="9790" ySize="12731" />
+      <DstRect xOff="77750" yOff="23938" xSize="9790" ySize="12731" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">D:\datasets\naip_seg_int8\seg_m_4208855_se_16_060_20210905.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="9695" RasterYSize="12775" DataType="Byte" BlockXSize="9695" BlockYSize="1" />
+      <SrcRect xOff="0" yOff="0" xSize="9695" ySize="12775" />
+      <DstRect xOff="17751" yOff="123" xSize="9695" ySize="12775" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">D:\datasets\naip_seg_int8\seg_m_4208855_sw_16_060_20210905.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="9841" RasterYSize="12782" DataType="Byte" BlockXSize="9841" BlockYSize="1" />
+      <SrcRect xOff="0" yOff="0" xSize="9841" ySize="12782" />
+      <DstRect xOff="9072" yOff="0" xSize="9841" ySize="12782" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">D:\datasets\naip_seg_int8\seg_m_4208856_se_16_060_20210905.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="9677" RasterYSize="12762" DataType="Byte" BlockXSize="9677" BlockYSize="1" />
+      <SrcRect xOff="0" yOff="0" xSize="9677" ySize="12762" />
+      <DstRect xOff="34972" yOff="350" xSize="9677" ySize="12762" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">D:\datasets\naip_seg_int8\seg_m_4208856_sw_16_060_20210905.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="9824" RasterYSize="12770" DataType="Byte" BlockXSize="9824" BlockYSize="1" />
+      <SrcRect xOff="0" yOff="0" xSize="9824" ySize="12770" />
+      <DstRect xOff="26293" yOff="239" xSize="9824" ySize="12770" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">D:\datasets\naip_seg_int8\seg_m_4208862_ne_16_060_20210905.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="9717" RasterYSize="12602" DataType="Byte" BlockXSize="9717" BlockYSize="1" />
+      <SrcRect xOff="0" yOff="0" xSize="9717" ySize="12602" />
+      <DstRect xOff="355" yOff="11530" xSize="9717" ySize="12602" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">D:\datasets\naip_seg_int8\seg_m_4208862_se_16_060_20210928.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="9728" RasterYSize="12786" DataType="Byte" BlockXSize="9728" BlockYSize="1" />
+      <SrcRect xOff="0" yOff="0" xSize="9728" ySize="12786" />
+      <DstRect xOff="176" yOff="23004" xSize="9728" ySize="12786" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">D:\datasets\naip_seg_int8\seg_m_4208863_ne_16_060_20210905.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="9701" RasterYSize="12589" DataType="Byte" BlockXSize="9701" BlockYSize="1" />
+      <SrcRect xOff="0" yOff="0" xSize="9701" ySize="12589" />
+      <DstRect xOff="17592" yOff="11782" xSize="9701" ySize="12589" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">D:\datasets\naip_seg_int8\seg_m_4208863_nw_16_060_20210905.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="9847" RasterYSize="12598" DataType="Byte" BlockXSize="9847" BlockYSize="1" />
+      <SrcRect xOff="0" yOff="0" xSize="9847" ySize="12598" />
+      <DstRect xOff="8904" yOff="11658" xSize="9847" ySize="12598" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">D:\datasets\naip_seg_int8\seg_m_4208863_se_16_060_20210928.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="9711" RasterYSize="12773" DataType="Byte" BlockXSize="9711" BlockYSize="1" />
+      <SrcRect xOff="0" yOff="0" xSize="9711" ySize="12773" />
+      <DstRect xOff="17430" yOff="23256" xSize="9711" ySize="12773" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">D:\datasets\naip_seg_int8\seg_m_4208863_sw_16_060_20210928.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="9858" RasterYSize="12782" DataType="Byte" BlockXSize="9858" BlockYSize="1" />
+      <SrcRect xOff="0" yOff="0" xSize="9858" ySize="12782" />
+      <DstRect xOff="8734" yOff="23132" xSize="9858" ySize="12782" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">D:\datasets\naip_seg_int8\seg_m_4208864_ne_16_060_20210905.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="9684" RasterYSize="12576" DataType="Byte" BlockXSize="9684" BlockYSize="1" />
+      <SrcRect xOff="0" yOff="0" xSize="9684" ySize="12576" />
+      <DstRect xOff="34829" yOff="12009" xSize="9684" ySize="12576" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">D:\datasets\naip_seg_int8\seg_m_4208864_nw_16_060_20210905.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="9831" RasterYSize="12584" DataType="Byte" BlockXSize="9831" BlockYSize="1" />
+      <SrcRect xOff="0" yOff="0" xSize="9831" ySize="12584" />
+      <DstRect xOff="26141" yOff="11898" xSize="9831" ySize="12584" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">D:\datasets\naip_seg_int8\seg_m_4208864_se_16_060_20210908.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="9693" RasterYSize="12762" DataType="Byte" BlockXSize="9693" BlockYSize="1" />
+      <SrcRect xOff="0" yOff="0" xSize="9693" ySize="12762" />
+      <DstRect xOff="34684" yOff="23482" xSize="9693" ySize="12762" />
+    </SimpleSource>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">D:\datasets\naip_seg_int8\seg_m_4208864_sw_16_060_20210928.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="9841" RasterYSize="12770" DataType="Byte" BlockXSize="9841" BlockYSize="1" />
+      <SrcRect xOff="0" yOff="0" xSize="9841" ySize="12770" />
+      <DstRect xOff="25988" yOff="23371" xSize="9841" ySize="12770" />
+    </SimpleSource>
+  </VRTRasterBand>
+</VRTDataset>
